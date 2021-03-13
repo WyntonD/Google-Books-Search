@@ -16,6 +16,8 @@
     5.Click inside the search bar on site and search for any book of your choice
    
     6.View the results of your search, giving you the options of saving your book(s) and/or viewing the site to purchase them.
+  
+  <img src="./client/assets/images/google.jpg"/>
     
     
 
@@ -23,4 +25,5 @@
   
   <p> This project involved connecting a front end design to a back-end server for overall book data management. In order to add or remove books from the saved list, controllers were created to convert these click requests into proper responses. Overall, this project took approximately a week for me to build. The process was challenging in the sense of making sure the database was properly receiving inputs from the front for book searches. But overall, I am happy with the results of this application. For future improvements, I plan to create a schema that will suggest similar books in addition to the one the user searched for based on genre and ratings.     
  </p>
+ 
 
