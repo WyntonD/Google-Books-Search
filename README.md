@@ -1,14 +1,15 @@
 # Google Book Search App
   -Search for and save any book of your choice using Google Book's API.
   
-  Technologies Used: ReactJS, JavaScript, NodeJS, Express, Google Books API, Bootstrap, Mongoose, Path 
+  <h1>Technologies Used</h1>
+  ReactJS, JavaScript, NodeJS, Express, Google Books API, Bootstrap, Mongoose, MongoDB, Path 
 
-## Instructions
+<h1>Instructions </h1>
     1.Clone the repository
     
-    2.run `npm install`
+    2.Run `npm install`
     
-    3.run `npm start`
+    3.Run `npm start`
     
     4.Visit localhost/3000 in the URL
    
