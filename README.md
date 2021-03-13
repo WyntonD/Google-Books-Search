@@ -17,7 +17,7 @@
    
     6.View the results of your search, giving you the options of saving your book(s) and/or viewing the site to purchase them.
   
-  <img src="./client/assets/images/google.jpg"/>
+  ![Google](./client/assets/images/google.jpg?raw=true "Google")
     
     
 
